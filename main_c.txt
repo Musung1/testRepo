@@ -1,1 +1,2 @@
-this is main_c
+this is mainC
+hello this is main!
